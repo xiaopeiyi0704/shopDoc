@@ -1,4 +1,4 @@
-https://partners.shopify.com/3263765?
+https://partners.shopify.com/3263765
 
 https://www.shopify.com/partners/blog/how-to-build-a-shopify-app#apps-into-shopify 
 https://shopify.dev/docs/apps
