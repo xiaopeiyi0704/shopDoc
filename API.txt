@@ -1,0 +1,7 @@
+we develop shopify app for store owner - so we focus on ADMIN API
+
+#shopify use Oauth2.0 for the whole authentication process. get authorization code -> get access token(24 hours expiration)
+#Identification of a APP - client ID/secret(available in partner account -> chatbit), each app has a client ID/secret pair. Shopify identify our app during the authorization process via the client ID/secret pair
+#We use the client ID/secret pair to accquire access token to access clients' stores' data.
+#The whole authentication flow is handled if we use a template(e.g remix)
+#We need to implement the whole authentication process(both UI(show grant screen and redirect url... via iframe) and backend) if we are not using a template.

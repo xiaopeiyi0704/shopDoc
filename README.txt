@@ -1,9 +1,11 @@
 //shopify dev document
-https://www.shopify.com/partners/blog/how-to-build-a-shopify-app#apps-into-shopify 
-https://shopify.dev/docs/apps
-https://shopify.dev/docs/api
-https://shopify.dev/docs
+https://www.shopify.com/partners/blog/how-to-build-a-shopify-app#apps-into-shopify - content seems out of date based on the version they use in tutoria videos
 https://www.shopify.com/partners/blog/how-to-build-a-shopify-app#polaris-getting-started - content seems out of date based on the version they use in tutoria videos
+https://shopify.dev/docs
+https://shopify.dev/docs/api
+https://shopify.dev/docs/apps
+https://shopify.dev/docs/api/admin-rest
+
 
 //shopify partner account
 https://partners.shopify.com/3263765
