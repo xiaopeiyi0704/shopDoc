@@ -40,10 +40,17 @@ A webhook is an HTTP-based callback function that allows lightweight, event-driv
 
 
 //remix
-shopify aquired this company to help developer create shopify app/development convinently
+shopify aquired this company to help developer create shopify app/development conviniently
 
 
-//setup in local
+
+-------------------------------OPTIONS to create shopify app--------------------------------
+Remix - a template HIGHLY integrated with shopify api/lib. It encapsulates and provides api for developers. Develop based on template. npm init @shopify/app@latest
+node - a template integrated with shopify api/lib. NOT like remix, it uses and talks to shopify more explictly/directly at a lower level. Not like Remix thru encapsulated, more abstracted level. npm init @shopify/app@latest -- --template node
+
+
+
+-------------------------------Start app in local--------------------------------
 // need node js version >= 18
 // checkout the code - chatbit
 // cd to the dir
